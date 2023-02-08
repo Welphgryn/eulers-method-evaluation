@@ -1,6 +1,6 @@
 <h1>Euler's Method in Perl</h1>
 
-<p>This repository contains a basic implementation of the Euler's method for finding the approximate value of a differential equation's solution at a given point, written in Perl.</p>
+<p>This repository contains a basic implementation of the Euler's method for finding the approximate value of a differential equation's solution at a given point, written in Perl. Um, it's Welphgryn approved, but I had some issues when I revisted in 2023.</p>
 
 <h2>Getting Started</h2>
 
